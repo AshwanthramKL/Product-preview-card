@@ -55,6 +55,6 @@ This project helped me recap over some concepts of CSS such as Flexbox, using SV
 - [CSS hover](https://www.w3schools.com/csSref/sel_hover.asp)
 ## Author
 
-- Website - [MARTIALEAGLE](https://www.your-site.com)
-- Frontend Mentor - [@MARTIALEAGLE](https://www.frontendmentor.io/profile/MARTIALEAGLE)
+- Website - [MARTIALEAGLE](https://github.com/AshwanthramKL)
+- Frontend Mentor - [@AshwanthramKL](https://www.frontendmentor.io/profile/AshwanthramKL)
 - Twitter - [@AshwanthramKL](https://www.twitter.com/AshwanthramKL)
